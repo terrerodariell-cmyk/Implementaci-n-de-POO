@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\bin\Debug\net8.0\Implementación de POO.exe
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\bin\Debug\net8.0\Implementación de POO.deps.json
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\bin\Debug\net8.0\Implementación de POO.runtimeconfig.json
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\bin\Debug\net8.0\Implementación de POO.dll
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\bin\Debug\net8.0\Implementación de POO.pdb
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\obj\Debug\net8.0\Implementación de POO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\obj\Debug\net8.0\Implementación de POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\obj\Debug\net8.0\Implementación de POO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\obj\Debug\net8.0\Implementación de POO.AssemblyInfo.cs
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\obj\Debug\net8.0\Implementación de POO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\obj\Debug\net8.0\Implementación de POO.sourcelink.json
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\obj\Debug\net8.0\Implemen.7046113A.Up2Date
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\obj\Debug\net8.0\Implementación de POO.dll
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\obj\Debug\net8.0\refint\Implementación de POO.dll
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\obj\Debug\net8.0\Implementación de POO.pdb
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\obj\Debug\net8.0\Implementación de POO.genruntimeconfig.cache
+C:\Users\User\Desktop\Implementación de POO\Implementaci-n-de-POO\obj\Debug\net8.0\ref\Implementación de POO.dll
